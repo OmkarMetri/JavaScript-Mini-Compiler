@@ -3,9 +3,14 @@
 1. Simulation of front end phase of javascript compiler involving "if-else" and "for" construct using lex and yacc tools. 
 2. The project was split into 4 tasks, i.e., tokenization, abstract syntax tree, intermediate code generation and optimization.
 
+# Pre-requistes
+
+1. Lex
+2. Yacc
+
 # Execution commands
 
-$ make -f makefile
+>> make -f makefile
 
 # Results
 
