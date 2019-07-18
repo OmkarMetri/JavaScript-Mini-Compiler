@@ -17,4 +17,3 @@
 1. Generated tokens
 2. Produced abstract syntax tree
 3. Intermediate code generation with optimization
-4. Successfully built JavaScript mini-compiler.
