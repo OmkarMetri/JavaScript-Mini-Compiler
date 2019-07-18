@@ -1,0 +1,3 @@
+#Run the below command with necessary permissions
+$ chmod +x run.sh
+$ ./run.sh

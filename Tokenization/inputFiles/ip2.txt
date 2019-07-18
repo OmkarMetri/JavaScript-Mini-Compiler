@@ -1,0 +1,19 @@
+var a = 10;
+var b = 15;
+
+if (a > b){
+	console.log("A is larger");
+}
+
+else if(a > b){
+	console.log("Hey1");
+}
+
+//identation skipping
+else{
+							console.log("B is larger");		
+}
+
+if (a > b){
+	console.log("Hey");
+}

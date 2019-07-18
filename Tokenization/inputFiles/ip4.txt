@@ -1,0 +1,34 @@
+	var kd=0;
+
+	var grade = 80;
+	
+	//if clause inside the for loop
+	for(; ; ){
+
+		//This is single line comment
+		
+		if (grade >= 90) {
+        	console.log("A");
+    	} 
+      
+		if (grade >= 80) {
+        	console.log("B");
+        	} 
+        if (grade >= 70) {
+			console.log("C");
+     	} 
+      
+		if (grade <= 60) {
+        	console.log("D");
+    	} 
+      	else {
+      		console.log("F");
+
+      	}
+      
+		/*This is multi line comment*/
+
+		grade=grade+5; 
+   	}
+	
+	document.write("Hello India");
